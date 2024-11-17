@@ -1,2 +1,4 @@
 get user data
 process to next step
+
+create an avatar for deployment
